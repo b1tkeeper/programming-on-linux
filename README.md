@@ -1,4 +1,4 @@
-# Programming On Linux
+# Programming on Linux
 
 ## Brief Introduction
 
